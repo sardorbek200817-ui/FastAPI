@@ -55,7 +55,6 @@ async def student(username: str , password: int , type:Student):
 # Vazifa         < ................ >
 
  
- 
 
 # 1 ] TOPSHIRIQ
  
