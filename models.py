@@ -14,3 +14,10 @@ class Book(Base):
     desc = Column(String, nullable=False)
 
 
+## 1 ]  *primary_key = True*  asosiy kalit deb kiritish masalan id
+
+## 2 ]  *index = True* qidiruvni tezlashtirish
+
+## 3 ]  *string* - Djangodagi CharField kabi …
+
+## 4 ]  *nullable = False*  malumotni kiritish shart belgisi
